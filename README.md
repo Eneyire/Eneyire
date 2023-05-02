@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eneyire Omuya
-- 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning Data Science and the github environment
+- 👀 I’m interested in Data Science, Artificial Intelligence and Prompt Engineering
+- 🌱 I’m currently learning Data Science, Python, SQL and the github environment
 - 💞️ I’m looking to collaborate on Data and AI pojects using Python
 
 <!---
