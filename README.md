@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Eneyire Godwin Omuya.
-- 👀 I’m interested in Data Science, Data Mining, and Machine Learning.
-- 🌱 I’m currently learning Data Science, Python, SQL, and the GitHub environment.
+- 👋 Hello, I’m Godwin Omuya.
+- 👀 I’m interested in Data Science, Machine Learning, and Artificial Intelligence.
 
 <!---
 Eneyire/Eneyire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
