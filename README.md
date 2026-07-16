@@ -1,5 +1,4 @@
-- 👋 Hello, I’m Godwin Omuya.
-- 👀 I’m interested in Data Science, Machine Learning, and Artificial Intelligence.
+Hello, I’m Godwin and I work as a Data Scientist/AI Engineer.
 
 <!---
 Eneyire/Eneyire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
