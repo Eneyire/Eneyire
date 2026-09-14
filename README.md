@@ -1,4 +1,4 @@
-Hello, I’m Godwin and I work as a Data Scientist/AI Engineer.
+Hi, I’m Eneyire, and I work as a Data Scientist/AI Engineer.
 
 <!---
 Eneyire/Eneyire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
